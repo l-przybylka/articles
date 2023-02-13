@@ -7,7 +7,9 @@
 
 
 ## Technologies used:
-
+React
+Material UI
+ChatGPT to generate the array of articles
 
 ## Difficulties encountered
 - ...
